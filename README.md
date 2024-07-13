@@ -20,3 +20,5 @@ Missed:
 - product page
 - product dropdown
 
+<img width="693" alt="Screenshot 2024-07-14 at 12 59 17 AM" src="https://github.com/user-attachments/assets/decb2191-22ef-41a2-9c83-da560c36ddd8">
+<img width="703" alt="Screenshot 2024-07-14 at 12 59 34 AM" src="https://github.com/user-attachments/assets/15466de8-5f71-48e4-9227-8c82f6c55cac">
